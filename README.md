@@ -1,6 +1,6 @@
 
 # Title of Project: E-Commerce Database System
-
+- ### Members i221698| i221557 | i221770
 ## 1. Introduction
 This project centers on the development of an e-commerce database system that captures core components such as orders, products, sellers, and customers. The goal is to model the intricate relationships that govern an online marketplace by creating a comprehensive database structure. 
 
